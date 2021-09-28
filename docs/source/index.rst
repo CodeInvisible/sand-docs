@@ -1,5 +1,5 @@
-Sandya Networks Documentasi!
-============================
+Sandya Documentasi!
+===================
 
 **Dokumentasi** ini kami buat untuk memudahkan kami dalam pekerjaan sehari hari.
 
