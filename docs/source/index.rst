@@ -1,4 +1,4 @@
-Sandya Documentasi!
+Sandya Dokumentasi!
 ===================
 
 **Dokumentasi** ini kami buat untuk memudahkan kami dalam pekerjaan sehari hari.
